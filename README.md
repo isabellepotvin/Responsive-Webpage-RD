@@ -1,5 +1,5 @@
 # Responsive-Webpage-RD
-Responsive homepage created by following a tutorial
+HTML5/CSS3 flat responsive homepage created by following a tutorial
 
 ## Demo
 https://isabellepotvin.github.io/Responsive-Webpage-RD/
